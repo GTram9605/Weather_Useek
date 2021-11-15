@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thabisor/AndroidStudioProjects/WeatherUseek/app/src/main/res/drawable/box_background_white.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/thabisor/AndroidStudioProjects/WeatherUseek/app/src/main/res/drawable/button_accent_background.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/thabisor/AndroidStudioProjects/WeatherUseek/app/src/main/res/drawable/gradient_background.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/thabisor/AndroidStudioProjects/WeatherUseek/app/src/main/res/drawable/gradient_ui_list.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/thabisor/AndroidStudioProjects/WeatherUseek/app/src/main/res/layout/activity_splash.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/thabisor/AndroidStudioProjects/WeatherUseek/app/src/main/res/layout/content_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/thabisor/AndroidStudioProjects/WeatherUseek/app/src/main/res/layout/fragment_first.xml" value="0.2532088681446908" />
+        <entry key="..\:/Users/thabisor/AndroidStudioProjects/WeatherUseek/app/src/main/res/layout/loading_view.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/thabisor/AndroidStudioProjects/WeatherUseek/app/src/main/res/xml/network_security_config.xml" value="0.16770833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

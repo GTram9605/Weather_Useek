@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="button_margin">29dp</dimen>
+    <dimen name="textSizeSmall">14sp</dimen>
+    <dimen name="textSizeMedium">16sp</dimen>
+    <dimen name="textSizeLarge">20sp</dimen>
+    <dimen name="textSizeExtraLarge">26sp</dimen>
+    <dimen name="textSizeListTitle">26sp</dimen>
+    <dimen name="textSizeTextInputs">16sp</dimen>
+    <dimen name="detect_location_size">45dp</dimen>
+    <dimen name="button_radius">4dp</dimen>
+    <dimen name="button_radius_extra">8dp</dimen>
+    <dimen name="weather_icon">60dp</dimen>
+    <dimen name="info_icon_size">48dp</dimen>
+</resources>

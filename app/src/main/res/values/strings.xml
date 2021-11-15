@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">W<u>eather Usee</u>k</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Weather guide</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="continue_text">Continue</string>
+    <string name="enter_your_location">Enter location</string>
+    <string name="alternativetext">Alternatively use below button for us to detect your location</string>
+    <string name="detect_location">Detect my location</string>
+    <string name="permissions_request">If you deny a permission, App functionality is restricted.</string>
+    <string name="location_required">Location cordinates are required ito proceed.</string>
+    <string name="temp_main">Clear Sky</string>
+    <string name="temp_location">Midrand</string>
+    <string name="temp_datetime">Now</string>
+    <string name="temp_temparature">25</string>
+    <string name="temp_temparature_logo"> °C</string>
+    <string name="min_temp">Min temp.</string>
+    <string name="max_temp">Max temp.</string>
+    <string name="wind">Wind speed</string>
+    <string name="wind_speed_sign">Km/h</string>
+    <string name="humidity">Humidity</string>
+    <string name="air_pressure">Air pressure</string>
+    <string name="feels_like">Feels like</string>
+    <string name="temp_air_pressire_unit">psi</string>
+    <string name="temp_humidity_sign">%</string>
+    <string name="loading_text">Please wait while loading</string>
+    <string name="location_icon">Location icon</string>
+    <string name="date_icon">Icon for loaded time</string>
+    <string name="weather_icon">Weather icon</string>
+</resources>
